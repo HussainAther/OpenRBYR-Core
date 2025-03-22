@@ -1,0 +1,18 @@
+# requirements.txt
+
+# Core dependencies
+numpy
+matplotlib
+fastapi
+uvicorn
+pydantic
+
+# Machine learning dependencies (if needed later)
+torch
+torchvision
+torchsummary
+
+# Optional visualization tools
+plotly
+opencv-python
+
